@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac 47.9605283 29.4441618 -3.19 292.6
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 47.9244922 29.4193759 -1.57 333.28
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 47.9927782 29.4372349 -2.75 85.6
+OBJECT_STATIC alhamra-tower.ac 47.99297815 29.3791467 8.89 80
