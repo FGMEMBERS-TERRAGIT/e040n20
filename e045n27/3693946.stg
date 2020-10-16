@@ -1,3 +1,3 @@
-OBJECT_SHARED Models/Airport/ils.xml 45.539211 27.891222 415 49.91
 OBJECT_SHARED Models/Communications/vordme_1.xml 45.556778 27.8795 410.79 180
 OBJECT_SHARED Models/Airport/localizer.xml 45.511122 27.913567 416.34 40.01
+OBJECT_SHARED Models/Airport/LOWI_ILS_glideslope2.xml 45.539211 27.891222 415 49.91
